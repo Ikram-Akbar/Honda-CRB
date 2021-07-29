@@ -1,0 +1,47 @@
+/* ==========
+Global Utilities 
+===================*/
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/* ===============
+header part
+===================== */
+.honda-header{
+    background-color: #264653;
+}
+.honda-btn{
+    background-color: #E76F51;
+}
+/* ===============
+end header part
+==================== */
+
+/* ==========
+feature part 
+================ */
+.honda-feature-img{
+    filter: grayscale(1);
+}
+/* ============
+client
+=============== */
+.honda-client-heading{
+    color: #E76F51;
+}
+.icon-color{
+    color: #E77C40;
+}
+.honda-client{
+    color: #23A6F0;
+}
+.honda-faq{
+    color: #E76F51;
+}
+/* =============
+newest part
+================== */
+.newest-arrival{
+    color: #E76F51;
+}
+/* ================================== */
